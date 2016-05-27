@@ -1,3 +1,5 @@
+# I attempted to recreate the results from this post:
+# http://niki.code-karma.com/2011/05/hiding-io-latency-in-generators-by-async-prefetching/
 import os
 import hashlib
 import functools
